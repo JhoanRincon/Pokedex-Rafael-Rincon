@@ -37,7 +37,7 @@ h1 {
 }
 
 .img-container {
-  background-image: url("poke4.png");
+  background-image: url (/poke.png);
   background-repeat: no-repeat;
   background-position: center;
 }
